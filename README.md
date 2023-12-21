@@ -4,3 +4,4 @@
 
 * hello-rust: hello world 演示项目
 * guessing-game: rust程序设计语言一书中的猜数字游戏示例
+* variabels: 变量的使用
